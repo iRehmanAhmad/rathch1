@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rathch1
-- 👀 I’m interested in Machine Learning, Data Science and Programming
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning and python
+- 👀 I’m interested in MERN Stack Development
+- 💞️ I’m looking to collaborate on MERN Stack projects
 - 📫 You can reach me at thepublicinterface@gmail.com
 
 <!---
