@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rathch1
+- 👋 Hi, I’m Rehman Ahmad Chaudhry => username : @rathch1
 - 👀 I’m interested in MERN Stack Development
 - 💞️ I’m looking to collaborate on MERN Stack projects
 - 📫 You can reach me at thepublicinterface@gmail.com
